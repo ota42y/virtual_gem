@@ -2,6 +2,7 @@
 
 Create virtual gem version for checking dependency.
 
+https://rubygems.org/gems/virtual_gem
 
 # The purpose
 
