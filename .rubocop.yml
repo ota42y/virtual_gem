@@ -1,0 +1,9 @@
+inherit_gem:
+  fincop:
+    - 'config/rspec.yml'
+    - 'config/rubocop.yml'
+
+AllCops:
+  TargetRubyVersion: 2.4
+
+  DisplayStyleGuide: true
